@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: new-aiaa.bst
+Database file #1: sample.bib
+Warning--entry type for "Smialek" isn't style-file defined
+--line 61 of file sample.bib
+Warning--entry type for "Sirigiri2018" isn't style-file defined
+--line 108 of file sample.bib
+Warning--entry type for "Cavainolo2023" isn't style-file defined
+--line 500 of file sample.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--can't use both author and editor fields in Boyce2012
+Warning--empty chapter and pages in Boyce2012
+Warning--empty pages in Cavainolo2022
+Warning--can't use both author and editor fields in Bakal2017
+Warning--empty chapter and pages in Bakal2017
+Warning--missing publisher in Stein2023
+Warning--empty chapter and pages in Stein2023
+Warning--empty pages in Stein2023
+You've used 34 entries,
+            3319 wiz_defined-function locations,
+            971 strings with 15956 characters,
+and the built_in function-call counts, 21976 in all, are:
+= -- 1591
+> -- 824
+< -- 80
++ -- 334
+- -- 253
+* -- 1919
+:= -- 2967
+add.period$ -- 92
+call.type$ -- 34
+change.case$ -- 136
+chr.to.int$ -- 35
+cite$ -- 42
+duplicate$ -- 1859
+empty$ -- 1697
+format.name$ -- 368
+if$ -- 4508
+int.to.chr$ -- 3
+int.to.str$ -- 35
+missing$ -- 344
+newline$ -- 140
+num.names$ -- 102
+pop$ -- 614
+preamble$ -- 1
+purify$ -- 136
+quote$ -- 0
+skip$ -- 706
+stack$ -- 0
+substring$ -- 1108
+swap$ -- 1215
+text.length$ -- 65
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 198
+warning$ -- 8
+while$ -- 117
+width$ -- 0
+write$ -- 445
+(There were 11 warnings)

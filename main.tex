@@ -14,7 +14,7 @@
 \usepackage[export]{adjustbox}
 \setlength\LTleft{0pt} 
 
-\title{Direct Simulation of CMAS Infiltrating TBC Microstructure \\
+\title{Direct tutorial of CMAS Infiltrating TBC Microstructure \\
 \\
 \textbf{EXTENDED ABSTRACT}}
 
@@ -22,12 +22,9 @@
 \affil{University of Central Florida (UCF), Orlando, FL, 32816, United States}
 \author{Ravisankar Naraparaju\footnote{High Temperature and Functional Coatings, DLR Institute of Materials Research}}
 \affil{German Aerospace Center (DLR), Cologne, 51147. Germany}
-
 \begin{document}
-
-\maketitle
+%\maketitle
 \section{Nomenclature}
-
 {\renewcommand\arraystretch{1.0}
 \noindent\begin{longtable*}{@{}l @{\quad=\quad} l@{}}
 $APS$  & Air-Plasma Spray \\
@@ -98,10 +95,10 @@ The simulation methodology is explained in previous work \cite{Cavainolo2023, Ca
 
 \begin{equation}
 \label{VOFtrans:equation}
-    \frac{\partial}{\partial t}\int_{V}{a_idV}+\ \oint_{A}{a_i\mathbit{v}\bullet d\ A}=\ \int_{V}{\left(S_{a_i}-\frac{a_i}{\rho_i}\frac{D\rho_i}{Dt}\right)dV-\int_{V}{\frac{1}{\rho_i}\mathrm{\nabla}\bullet}}\left(a_i\rho_iv_{d,i}\right)dV
+    \frac{\partial}{\partial t}\int_{V}{a_idV}+\ \o int_{A}{a_{i} v\bullet d\ A}=\ \int_{V}{\left(S_{a_i}-\frac{a_i}{\rho_i}\frac{D\rho_i}{Dt}\right)dV-\int_{V}{\frac{1}{\rho_i}\mathrm{\nabla}\bullet}}\left(a_i\rho_iv_{d,i}\right)dV
 \end{equation}
 
-\noindent In these equations, the subscript i denotes a particular phase (in this case, air or CMAS), $a_i = V_i/V$ is the volume fraction of a particular phase, and $S_a_i$ is a source term defined by the initialization of the phases. The VOF method implements a technique called High-Resolution Interface Capturing (HRIC). HRIC imposes a Courant number limit (i.e. Co = 1.0), and if the Courant number is exceeded, then the HRIC scheme reverts back to a standard upwind scheme, which results in a smeared interface. This smeared interface can be corrected by implementing temporal subcycling. The general idea of temporal subcycling is shown in Equation \ref{eq:GeneralTempSubCycle}, where the right-hand side of the equation is a single source term that combines the right-hand side contributions from Equation \ref{VOFtrans:equation}. 
+\noindent In these equations, the subscript i denotes a particular phase (in this case, air or CMAS), $a_i = V_i/V$ is the volume fraction of a particular phase, and $S_{a_{i}}$ is a source term defined by the initialization of the phases. The VOF method implements a technique called High-Resolution Interface Capturing (HRIC). HRIC imposes a Courant number limit (i.e. Co = 1.0), and if the Courant number is exceeded, then the HRIC scheme reverts back to a standard upwind scheme, which results in a smeared interface. This smeared interface can be corrected by implementing temporal subcycling. The general idea of temporal subcycling is shown in Equation \ref{eq:GeneralTempSubCycle}, where the right-hand side of the equation is a single source term that combines the right-hand side contributions from Equation \ref{VOFtrans:equation}. 
 
 \begin{equation}
 \label{eq:GeneralTempSubCycle}

@@ -1,0 +1,140 @@
+\begin{thebibliography}{34}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{\discretionary{}{}{}https://doi.org/#1}\else
+  \providecommand{\doi}[1]{\discretionary{}{}{}\urlstyle{rm}\url{https://doi.org/#1}}\fi
+
+\bibitem[{Chen and Zhao(2015)}]{Chen2015}
+Chen, W., and Zhao, L., \enquote{Review – Volcanic Ash and its Influence on Aircraft Engine Components,} \emph{Procedia Engineering}, Vol.~99, 2015, pp. 795--803.
+\newblock \doi{10.1016/j.proeng.2014.12.604}.
+
+\bibitem[{Smialek(1991)}]{Smialek}
+Smialek, J.~L., \enquote{The Chemistry of Saudi Arabian Sand: A Deposition Problem on Helicopter Turbine Airfoils NASA THE CHEMISTRY OF SAUDI ARABIAN SAND: A DEPOSITION PROBLEM ON HELICOPTER TURBINE AIRFOILS,} , 1991.
+
+\bibitem[{Schechter(2010)}]{Thehumanconditionblog_2010}
+Schechter, O., Apr 2010.
+\newblock \urlprefix\url{https://web.archive.org/web/20100419004949/http://blog.newsweek.com/blogs/thehumancondition/archive/2010/04/16/smoked-out-why-volcanic-ash-and-planes-fight-for-the-same-small-air-space.aspx}.
+
+\bibitem[{Bennett and Yu(2005)}]{Bennett2005}
+Bennett, T.~D., and Yu, F., \enquote{A nondestructive technique for determining thermal properties of thermal barrier coatings,} \emph{Journal of Applied Physics}, Vol.~97, 2005, p. 13520.
+\newblock \doi{10.1063/1.1826217}, \urlprefix\url{https://aip.scitation.org/doi/abs/10.1063/1.1826217}.
+
+\bibitem[{Sirigiri and Kowalczyk(2018)}]{Sirigiri2018}
+Sirigiri, A.~K., and Kowalczyk, P. D.-I.~W., \enquote{Modeling and simulation of CMAS infiltration in EB-PVD TBCs,} , 2018.
+
+\bibitem[{Flores~Renteria and W.A.Kaysser(2007)}]{Renteria2007}
+Flores~Renteria, A., and W.A.Kaysser, \enquote{A small-angle scattering analysis of the influence of manufacture and thermal induced morpological changes on the thermal conductivity of EB-PVD PYSZ thermal barrier coatings,} \emph{Fakultät für Georessourcen und Materialtechnik}, 2007.
+
+\bibitem[{Peng et~al.(2012)Peng, Wang, Guo, Miao, Guo, and Gong}]{Peng2012}
+Peng, H., Wang, L., Guo, L., Miao, W., Guo, H., and Gong, S., \enquote{Degradation of EB-PVD thermal barrier coatings caused by CMAS deposits,} \emph{Progress in Natural Science: Materials International}, Vol.~22, No.~5, 2012, pp. 461--467.
+\newblock \doi{https://doi.org/10.1016/j.pnsc.2012.06.007}, \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S100200711200086X}.
+
+\bibitem[{Boyce(2012)}]{Boyce2012}
+Boyce, M.~P., \emph{2 - Advanced industrial gas turbines for power generation}, Woodhead Publishing, 2012, pp. 44--102.
+\newblock \doi{https://doi.org/10.1533/9780857096180.44}, \urlprefix\url{https://www.sciencedirect.com/science/article/pii/B978085709013350002X}.
+
+\bibitem[{Costa et~al.(2019)Costa, Harder, Wiesner, Zhu, Bansal, Lee, Jacobson, Kapush, Ushakov, and Navrotsky}]{Costa2019}
+Costa, G., Harder, B.~J., Wiesner, V.~L., Zhu, D., Bansal, N., Lee, K.~N., Jacobson, N.~S., Kapush, D., Ushakov, S.~V., and Navrotsky, A., \enquote{Thermodynamics of reaction between gas-turbine ceramic coatings and ingested CMAS corrodents,} \emph{Journal of the American Ceramic Society}, Vol. 102, No.~5, 2019, pp. 2948--2964.
+\newblock \doi{https://doi.org/10.1111/jace.16113}, \urlprefix\url{https://ceramics.onlinelibrary.wiley.com/doi/abs/10.1111/jace.16113}.
+
+\bibitem[{Naraparaju et~al.(2014)Naraparaju, Schulz, Mechnich, Döbber, and Seidel}]{Naraparaju2014}
+Naraparaju, R., Schulz, U., Mechnich, P., Döbber, P., and Seidel, F., \enquote{Degradation study of 7wt.\% yttria stabilised zirconia (7YSZ) thermal barrier coatings on aero-engine combustion chamber parts due to infiltration by different CaO–MgO–Al2O3–SiO2 variants,} \emph{Surface and Coatings Technology}, Vol. 260, 2014, pp. 73--81.
+\newblock \doi{https://doi.org/10.1016/j.surfcoat.2014.08.079}.
+
+\bibitem[{Wellman et~al.(2010)Wellman, Whitman, and Nicholls}]{Wellman2010}
+Wellman, R., Whitman, G., and Nicholls, J.~R., \enquote{CMAS corrosion of EB PVD TBCs: Identifying the minimum level to initiate damage,} \emph{International Journal of Refractory Metals and Hard Materials}, Vol.~28, No.~1, 2010, pp. 124--132.
+\newblock \doi{https://doi.org/10.1016/j.ijrmhm.2009.07.005}, \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0263436809001073}.
+
+\bibitem[{Krämer et~al.(2006)Krämer, Yang, Levi, and Johnson}]{Kramer2006}
+Krämer, S., Yang, J., Levi, C.~G., and Johnson, C.~A., \enquote{Thermochemical Interaction of Thermal Barrier Coatings with Molten CaO–MgO–Al2O3–SiO2 (CMAS) Deposits,} \emph{Journal of the American Ceramic Society}, Vol.~89, No.~10, 2006, pp. 3167--3175.
+\newblock \doi{https://doi.org/10.1111/j.1551-2916.2006.01209.x}, \urlprefix\url{https://ceramics.onlinelibrary.wiley.com/doi/abs/10.1111/j.1551-2916.2006.01209.x}.
+
+\bibitem[{Xia et~al.(2019)Xia, Yang, Wu, Zhou, Zhang, Huo, and Gan}]{Xia2019}
+Xia, J., Yang, L., Wu, R.~T., Zhou, Y.~C., Zhang, L., Huo, K.~L., and Gan, M., \enquote{Degradation mechanisms of air plasma sprayed free-standing yttria-stabilized zirconia thermal barrier coatings exposed to volcanic ash,} \emph{Applied Surface Science}, Vol. 481, 2019, pp. 860--871.
+\newblock \doi{https://doi.org/10.1016/j.apsusc.2019.03.084}, \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0169433219307044}.
+
+\bibitem[{Vogel et~al.(2018)Vogel, Durant, Cassiani, Clarkson, Slaby, Diplas, Krüger, and Stohl}]{Vogel2018}
+Vogel, A., Durant, A., Cassiani, M., Clarkson, R., Slaby, M., Diplas, S., Krüger, K., and Stohl, A., \enquote{Simulation of Volcanic Ash Ingestion Into a Large Aero Engine: Particle–Fan Interactions,} \emph{Journal of Turbomachinery}, Vol. 141, 2018.
+\newblock \doi{10.1115/1.4041464}.
+
+\bibitem[{Bojdo and Filippone(2019)}]{Bojdo2019}
+Bojdo, N., and Filippone, A., \enquote{A Simple Model to Assess the Role of Dust Composition and Size on Deposition in Rotorcraft Engines,} \emph{Aerospace}, Vol.~6, No.~4, 2019, p.~44.
+\newblock \urlprefix\url{https://www.mdpi.com/2226-4310/6/4/44}.
+
+\bibitem[{Cavainolo and Kinzel(2022)}]{Cavainolo2022}
+Cavainolo, B., and Kinzel, M., \enquote{Investigation of Volume-of-Fluid Method to Simulate Melting-Solidification of CMAS Particles,} \emph{ASME 2022 Fluids Engineering Division Summer Meeting}, Vol. Volume 2: Multiphase Flow (MFTC); Computational Fluid Dynamics (CFDTC); Micro and Nano Fluid Dynamics (MNFDTC), V002T04A002, 2022.
+\newblock \doi{10.1115/fedsm2022-85863}, \urlprefix\url{https://doi.org/10.1115/FEDSM2022-85863}.
+
+\bibitem[{Naraparaju et~al.(2017)Naraparaju, Hüttermann, Schulz, and Mechnich}]{Naraparaju2017}
+Naraparaju, R., Hüttermann, M., Schulz, U., and Mechnich, P., \enquote{Tailoring the EB-PVD columnar microstructure to mitigate the infiltration of CMAS in 7YSZ thermal barrier coatings,} \emph{Journal of the European Ceramic Society}, Vol.~37, No.~1, 2017, pp. 261--270.
+\newblock \doi{https://doi.org/10.1016/j.jeurceramsoc.2016.07.027}, \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0955221916304058}.
+
+\bibitem[{Waghmare and Mitra(2010{\natexlab{a}})}]{WAGHMARE2010c}
+Waghmare, P.~R., and Mitra, S.~K., \enquote{{On the Derivation of Pressure Field Distribution at the Entrance of a Rectangular Capillary},} \emph{Journal of Fluids Engineering}, Vol. 132, No.~5, 2010{\natexlab{a}}, p. 054502.
+\newblock \doi{10.1115/1.4001641}, \urlprefix\url{https://doi.org/10.1115/1.4001641}.
+
+\bibitem[{Waghmare and Mitra(2010{\natexlab{b}})}]{WAGHMARE2010117}
+Waghmare, P.~R., and Mitra, S.~K., \enquote{Modeling of combined electroosmotic and capillary flow in microchannels,} \emph{Analytica Chimica Acta}, Vol. 663, No.~2, 2010{\natexlab{b}}, pp. 117--126.
+\newblock \doi{https://doi.org/10.1016/j.aca.2010.01.055}, \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0003267010001571}.
+
+\bibitem[{Waghmare and Mitra(2010{\natexlab{c}})}]{WAGHMARE2010561}
+Waghmare, P.~R., and Mitra, S.~K., \enquote{Finite reservoir effect on capillary flow of microbead suspension in rectangular microchannels,} \emph{Journal of Colloid and Interface Science}, Vol. 351, No.~2, 2010{\natexlab{c}}, pp. 561--569.
+\newblock \doi{https://doi.org/10.1016/j.jcis.2010.08.039}, \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0021979710009343}.
+
+\bibitem[{Cavainolo et~al.(2023)Cavainolo, Kinzel, Naraparaju, and Kabir}]{Cavainolo2023}
+Cavainolo, B.~A., Kinzel, M.~P., Naraparaju, R., and Kabir, M.~R., \enquote{Simulating CMAS Infiltration of an EB-PVD Thermal Barrier Coating Using the Volume-of-Fluid Method,} , 2023.
+
+\bibitem[{Siemens(2023)}]{starccm}
+Siemens, \enquote{STAR-CCM+ User's Manual,} , 2023.
+
+\bibitem[{Naraparaju et~al.(2019)Naraparaju, Gomez~Chavez, Niemeyer, Hess, Song, Dingwell, Lokachari, Ramana, and Schulz}]{Naraparaju2019}
+Naraparaju, R., Gomez~Chavez, J.~J., Niemeyer, P., Hess, K.-U., Song, W., Dingwell, D.~B., Lokachari, S., Ramana, C.~V., and Schulz, U., \enquote{Estimation of CMAS infiltration depth in EB-PVD TBCs: A new constraint model supported with experimental approach,} \emph{Journal of the European Ceramic Society}, Vol.~39, No.~9, 2019, pp. 2936--2945.
+\newblock \doi{https://doi.org/10.1016/j.jeurceramsoc.2019.02.040}, \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0955221919301335}.
+
+\bibitem[{Han et~al.(2023)Han, Zou, Wu, and Zhang}]{Han2023}
+Han, J., Zou, Y., Wu, D., and Zhang, Y., \enquote{Investigating the thermal, mechanical and thermal cyclic properties of plasma-sprayed Al2O3-7YSZ/7YSZ double ceramic layer TBCs,} \emph{Journal of the European Ceramic Society}, Vol.~43, No.~9, 2023, pp. 4124--4135.
+\newblock \doi{https://doi.org/10.1016/j.jeurceramsoc.2023.03.004}, \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S095522192300184X}.
+
+\bibitem[{Bakal et~al.(2017)Bakal, Roebbecke, Wang, Deng, Zhang, and Fergus}]{Bakal2017}
+Bakal, A., Roebbecke, K., Wang, H., Deng, W., Zhang, X., and Fergus, J.~W., \emph{Evolution of the Thermal Conductivity of Sm2Zr2O7 Under CMAS Attack}, Springer International Publishing, Cham, 2017, pp. 227--235.
+\newblock \doi{10.1007/978-3-319-52333-0_21}, \urlprefix\url{https://doi.org/10.1007/978-3-319-52333-0_21}.
+
+\bibitem[{Kakuda et~al.(2015)Kakuda, Levi, and Bennett}]{KAKUDA2015350}
+Kakuda, T.~R., Levi, C.~G., and Bennett, T.~D., \enquote{The thermal behavior of CMAS-infiltrated thermal barrier coatings,} \emph{Surface and Coatings Technology}, Vol. 272, 2015, pp. 350--356.
+\newblock \doi{https://doi.org/10.1016/j.surfcoat.2015.03.043}, \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0257897215002819}.
+
+\bibitem[{Bansal and Choi(2015)}]{BANSAL20153901}
+Bansal, N.~P., and Choi, S.~R., \enquote{Properties of CMAS glass from desert sand,} \emph{Ceramics International}, Vol.~41, No. 3, Part A, 2015, pp. 3901--3909.
+\newblock \doi{https://doi.org/10.1016/j.ceramint.2014.11.072}, \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S027288421401832X}.
+
+\bibitem[{Kakuda et~al.(2009)Kakuda, Limarga, Bennett, and Clarke}]{KAKUDA20092583}
+Kakuda, T.~R., Limarga, A.~M., Bennett, T.~D., and Clarke, D.~R., \enquote{Evolution of thermal properties of EB-PVD 7YSZ thermal barrier coatings with thermal cycling,} \emph{Acta Materialia}, Vol.~57, No.~8, 2009, pp. 2583--2591.
+\newblock \doi{https://doi.org/10.1016/j.actamat.2009.02.019}, \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1359645409001013}.
+
+\bibitem[{Bravo et~al.(2020)Bravo, Jain, Khare, Murugan, Ghoshal, and Flatau}]{Bravo2020}
+Bravo, L.~G., Jain, N., Khare, P., Murugan, M., Ghoshal, A., and Flatau, A., \enquote{Physical aspects of CMAS particle dynamics and deposition in turboshaft engines,} \emph{Journal of Materials Research}, Vol.~35, No.~17, 2020, pp. 2249--2259.
+\newblock \doi{10.1557/jmr.2020.234}, \urlprefix\url{https://doi.org/10.1557/jmr.2020.234}.
+
+\bibitem[{Eça and Hoekstra(2014)}]{ECA2014104}
+Eça, L., and Hoekstra, M., \enquote{A procedure for the estimation of the numerical uncertainty of CFD calculations based on grid refinement studies,} \emph{Journal of Computational Physics}, Vol. 262, 2014, pp. 104--130.
+\newblock \doi{https://doi.org/10.1016/j.jcp.2014.01.006}, \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0021999114000278}.
+
+\bibitem[{Celik et~al.(2008)Celik, Ghia, Roache, and Freitas}]{celik2008procedure}
+Celik, I.~B., Ghia, U., Roache, P.~J., and Freitas, C.~J., \enquote{Procedure for estimation and reporting of uncertainty due to discretization in CFD applications,} \emph{Journal of fluids Engineering-Transactions of the ASME}, Vol. 130, No.~7, 2008.
+
+\bibitem[{Zhao et~al.(2014)Zhao, Levi, and Wadley}]{ZHAO201474}
+Zhao, H., Levi, C.~G., and Wadley, H.~N., \enquote{Molten silicate interactions with thermal barrier coatings,} \emph{Surface and Coatings Technology}, Vol. 251, 2014, pp. 74--86.
+\newblock \doi{https://doi.org/10.1016/j.surfcoat.2014.04.007}, \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0257897214002977}.
+
+\bibitem[{Giordano et~al.(2008)Giordano, Russell, and Dingwell}]{Giordano2008}
+Giordano, D., Russell, J.~K., and Dingwell, D.~B., \enquote{Viscosity of magmatic liquids: A model,} \emph{Earth and Planetary Science Letters}, Vol. 271, No.~1, 2008, pp. 123--134.
+\newblock \doi{https://doi.org/10.1016/j.epsl.2008.03.038}, \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0012821X08002240}.
+
+\bibitem[{Stein et~al.(2023)Stein, Cavainolo, Tetard, Kinzel, Naraparaju, Schulz, and Raghavan}]{Stein2023}
+Stein, Z., Cavainolo, B., Tetard, L., Kinzel, M.~P., Naraparaju, R., Schulz, U., and Raghavan, S., \emph{CMAS Infiltration and Mitigation Strategies for Minimizing Premature Degradation Failure of High Temperature Ceramic Coatings in Turbine Engines}, 2023.
+\newblock \doi{10.2514/6.2023-0179}, \urlprefix\url{https://arc.aiaa.org/doi/abs/10.2514/6.2023-0179}.
+
+\end{thebibliography}
