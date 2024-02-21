@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.7)  21 FEB 2024 12:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.7)  21 FEB 2024 12:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -865,10 +865,10 @@ File: translations-basic-dictionary-english.trsl (english translation file `tran
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 25.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 27.
+(Font)              scaled to size 12.0pt on input line 28.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 12.0pt on input line 27.
-LaTeX Font Info:    Trying to load font information for OT1+minntx on input line 30.
+(Font)              scaled to size 12.0pt on input line 28.
+LaTeX Font Info:    Trying to load font information for OT1+minntx on input line 31.
  (c:/texlive/2023/texmf-dist/tex/latex/newtx/ot1minntx.fd
 File: ot1minntx.fd 2023/09/09 v1.1 font definition file for OT1/minntx
 )
@@ -876,119 +876,119 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `minntx' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 30.
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 31.
  (c:/texlive/2023/texmf-dist/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
 )
-LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 30.
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 31.
  (c:/texlive/2023/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2023/08/16 Fontinst v1.933 font definitions for U/ntxsym.
 )
-LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 30.
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 31.
  (c:/texlive/2023/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
-LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 30.
+LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 31.
  (c:/texlive/2023/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
 File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.0pt on input line 30.
+(Font)              scaled to size 10.0pt on input line 31.
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 7.3pt on input line 30.
+(Font)              scaled to size 7.3pt on input line 31.
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 5.5pt on input line 30.
+(Font)              scaled to size 5.5pt on input line 31.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/sc' will be
-(Font)              scaled to size 10.0pt on input line 49.
+(Font)              scaled to size 10.0pt on input line 50.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/ntxtlf/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 16.53pt on input line 49.
+(Font)              scaled to size 16.53pt on input line 50.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 24.45271pt on input line 49.
+(Font)              scaled to size 24.45271pt on input line 50.
 Package lettrine.sty Info: Targeted height = 16.53pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 16.53001pt (T);
-(lettrine.sty)             reported on input line 49.
+(lettrine.sty)             reported on input line 50.
 <Figures/Fig1.png, id=44, 469.755pt x 158.5925pt>
 File: Figures/Fig1.png Graphic file (type png)
 <use Figures/Fig1.png>
-Package pdftex.def Info: Figures/Fig1.png  used on input line 55.
+Package pdftex.def Info: Figures/Fig1.png  used on input line 56.
 (pdftex.def)             Requested size: 422.77664pt x 142.7319pt.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.0pt on input line 56.
+(Font)              scaled to size 10.0pt on input line 57.
  [1
 
 {c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc} <./Figures/Fig1.png>] [2{c:/texlive/2023/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}]
 
-LaTeX Warning: Command \o invalid in math mode on input line 98.
+LaTeX Warning: Command \o invalid in math mode on input line 99.
 
 Missing character: There is no ø in font ntx-Regular-tlf-ot1!
 <Figures/Fig3.png, id=117, 577.284pt x 399.018pt>
 File: Figures/Fig3.png Graphic file (type png)
 <use Figures/Fig3.png>
-Package pdftex.def Info: Figures/Fig3.png  used on input line 128.
+Package pdftex.def Info: Figures/Fig3.png  used on input line 129.
 (pdftex.def)             Requested size: 352.31625pt x 243.51631pt.
 <Figures/dimensions.png, id=118, 820.155pt x 499.758pt>
 File: Figures/dimensions.png Graphic file (type png)
 <use Figures/dimensions.png>
-Package pdftex.def Info: Figures/dimensions.png  used on input line 135.
+Package pdftex.def Info: Figures/dimensions.png  used on input line 136.
 (pdftex.def)             Requested size: 352.31625pt x 214.68585pt.
 [3{c:/texlive/2023/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}] [4 <./Figures/Fig3.png> <./Figures/dimensions.png>] [5]
 <Figures/coarsestMesh.png, id=177, 218.8175pt x 236.885pt>
 File: Figures/coarsestMesh.png Graphic file (type png)
 <use Figures/coarsestMesh.png>
-Package pdftex.def Info: Figures/coarsestMesh.png  used on input line 192.
+Package pdftex.def Info: Figures/coarsestMesh.png  used on input line 193.
 (pdftex.def)             Requested size: 164.11272pt x 177.6633pt.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 9.0pt on input line 193.
+(Font)              scaled to size 9.0pt on input line 194.
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 9.0pt on input line 193.
+(Font)              scaled to size 9.0pt on input line 194.
 <Figures/fineMesh.png, id=178, 218.8175pt x 181.17688pt>
 File: Figures/fineMesh.png Graphic file (type png)
 <use Figures/fineMesh.png>
-Package pdftex.def Info: Figures/fineMesh.png  used on input line 198.
+Package pdftex.def Info: Figures/fineMesh.png  used on input line 199.
 (pdftex.def)             Requested size: 164.11272pt x 135.88231pt.
 <Figures/finerMesh.png, id=179, 214.30063pt x 164.615pt>
 File: Figures/finerMesh.png Graphic file (type png)
 <use Figures/finerMesh.png>
-Package pdftex.def Info: Figures/finerMesh.png  used on input line 204.
+Package pdftex.def Info: Figures/finerMesh.png  used on input line 205.
 (pdftex.def)             Requested size: 160.72507pt x 123.46094pt.
 <Figures/finestMesh.png, id=180, 221.32687pt x 158.5925pt>
 File: Figures/finestMesh.png Graphic file (type png)
 <use Figures/finestMesh.png>
-Package pdftex.def Info: Figures/finestMesh.png  used on input line 210.
+Package pdftex.def Info: Figures/finestMesh.png  used on input line 211.
 (pdftex.def)             Requested size: 165.99472pt x 118.94406pt.
 
-Overfull \hbox (1.49992pt too wide) in paragraph at lines 190--214
+Overfull \hbox (1.49992pt too wide) in paragraph at lines 191--215
 [][] []
  []
 
 
-Overfull \hbox (1.49992pt too wide) in paragraph at lines 190--214
+Overfull \hbox (1.49992pt too wide) in paragraph at lines 191--215
 [] [] 
  []
 
 <Figures/infilDepthMesh.png, id=181, 632.3625pt x 474.27188pt>
 File: Figures/infilDepthMesh.png Graphic file (type png)
 <use Figures/infilDepthMesh.png>
-Package pdftex.def Info: Figures/infilDepthMesh.png  used on input line 220.
+Package pdftex.def Info: Figures/infilDepthMesh.png  used on input line 221.
 (pdftex.def)             Requested size: 347.80045pt x 260.85034pt.
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 225.
+               Default added (so using `tbp') on input line 226.
 
 [6 <./Figures/coarsestMesh.png> <./Figures/fineMesh.png> <./Figures/finerMesh.png> <./Figures/finestMesh.png>]
 <Figures/RaviInfilDepth.jpg, id=201, 257.10213pt x 207.8562pt>
 File: Figures/RaviInfilDepth.jpg Graphic file (type jpg)
 <use Figures/RaviInfilDepth.jpg>
-Package pdftex.def Info: Figures/RaviInfilDepth.jpg  used on input line 244.
+Package pdftex.def Info: Figures/RaviInfilDepth.jpg  used on input line 245.
 (pdftex.def)             Requested size: 257.10149pt x 207.85568pt.
 <Figures/analyticalBenchmark.png, id=207, 632.3625pt x 474.27188pt>
 File: Figures/analyticalBenchmark.png Graphic file (type png)
 <use Figures/analyticalBenchmark.png>
-Package pdftex.def Info: Figures/analyticalBenchmark.png  used on input line 269.
+Package pdftex.def Info: Figures/analyticalBenchmark.png  used on input line 270.
 (pdftex.def)             Requested size: 352.31625pt x 264.23715pt.
 
 
@@ -998,30 +998,30 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <Figures/viscosity.png, id=234, 266.49562pt x 195.22937pt>
 File: Figures/viscosity.png Graphic file (type png)
 <use Figures/viscosity.png>
-Package pdftex.def Info: Figures/viscosity.png  used on input line 282.
+Package pdftex.def Info: Figures/viscosity.png  used on input line 283.
 (pdftex.def)             Requested size: 234.8775pt x 172.07047pt.
 <Figures/viscosity_v_time_curves.jpg, id=235, 843.15pt x 632.3625pt>
 File: Figures/viscosity_v_time_curves.jpg Graphic file (type jpg)
 <use Figures/viscosity_v_time_curves.jpg>
-Package pdftex.def Info: Figures/viscosity_v_time_curves.jpg  used on input line 290.
+Package pdftex.def Info: Figures/viscosity_v_time_curves.jpg  used on input line 291.
 (pdftex.def)             Requested size: 234.8775pt x 176.15327pt.
 <Figures/TemperatureView_image_00270.png, id=236, 1185.42876pt x 525.965pt>
 File: Figures/TemperatureView_image_00270.png Graphic file (type png)
 <use Figures/TemperatureView_image_00270.png>
-Package pdftex.def Info: Figures/TemperatureView_image_00270.png  used on input line 298.
+Package pdftex.def Info: Figures/TemperatureView_image_00270.png  used on input line 299.
 (pdftex.def)             Requested size: 237.08154pt x 105.19113pt.
 
-Overfull \hbox (49.1824pt too wide) in paragraph at lines 298--299
+Overfull \hbox (49.1824pt too wide) in paragraph at lines 299--300
 [][] 
  []
 
 <Figures/Viscosity_View_image_00270.png, id=237, 1187.43625pt x 526.96875pt>
 File: Figures/Viscosity_View_image_00270.png Graphic file (type png)
 <use Figures/Viscosity_View_image_00270.png>
-Package pdftex.def Info: Figures/Viscosity_View_image_00270.png  used on input line 303.
+Package pdftex.def Info: Figures/Viscosity_View_image_00270.png  used on input line 304.
 (pdftex.def)             Requested size: 237.48305pt x 105.39188pt.
 
-Overfull \hbox (49.58391pt too wide) in paragraph at lines 303--304
+Overfull \hbox (49.58391pt too wide) in paragraph at lines 304--305
 [][] 
  []
 
